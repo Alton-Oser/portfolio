@@ -1,0 +1,107 @@
+body {	
+	background-color: #B0B6B8;
+}
+
+.minus-header {
+	padding: 1.4% 5% 5% 5%;
+}
+header {
+	padding: 5% 10% 7% 10%;
+	background-image: url("https://photos-3.dropbox.com/t/2/AAC7bQnHVxAvatytXnH1osMzEZYdNtxlmzzdmIkO5lE4_A/12/641217022/jpeg/32x32/1/_/1/2/cambria.jpg/EKHFmpoFGCogBygEKAc/SZ47VILNX-MqBX9AUVo6j3MHOh_EmqbJvtRz0aE45Q0?size=1024x768&size_mode=3");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+}
+h1 {
+	font-family: 'Libre Baskerville', serif;
+}
+h2 {
+	color: #1C1C02;
+	font-weight: bold;
+}
+#web-dev {
+	color: #141542;
+	font-weight: bold;
+	font-size: 2.8em;
+	text-shadow: 4px 4px 4px #aaa;
+}
+
+p, li{
+	font-size: 1.8em;
+	color: #141542;
+	list-style: none;
+}
+
+span.glyphicon-circle-arrow-up {
+	font-size: 2.5em;
+}
+#arrow-text-color {
+	color: #516C9C !important;
+}
+.social-icons {
+	width: 50px;
+	height:auto;
+}
+.intro-row {
+	margin-top: 4%;
+}
+.intro-col {
+	font-weight: bold;
+	position: relative;
+}
+
+#build-websites {
+	font-size: 3.8em;
+	color: #7A7A05;
+	font-weight: bold;
+	font-family: 'Libre Baskerville', serif;
+}
+
+#change {
+	position: absolute;
+}
+
+#life {
+	position: relative;
+	top: 45px;
+}
+.small-pics-turn-right {
+	width: 47%;
+	height: auto;
+	-ms-transform: rotate(15deg); /* IE 9 */
+    -webkit-transform: rotate(15deg); /* Chrome, Safari, Opera */
+    transform: rotate(15deg);
+}
+
+.small-pics-turn-left {
+	width: 100%;
+	height: auto;
+	/*-ms-transform: rotate(-12deg); /* IE 9 */
+    /*-webkit-transform: rotate(-12deg); /* Chrome, Safari, Opera */
+    /*transform: rotate(-12deg);*/
+}
+
+/* portfolio page */
+#portfolio, #about, #contact{
+	color: #FA3E05;
+	font-size: 3.8em;
+	
+}
+
+.box-col {
+	width: 500px;
+	padding: 5px;
+	height: auto;
+	border: solid;
+	background-color: #9991CC;
+	font-size: 1.3em;
+}
+
+
+
+
+
+
+
+
+
